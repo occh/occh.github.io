@@ -7,3 +7,14 @@
   width: 1170px;
   
 }
+
+.headr-left {
+  width: 124px;
+  padding: 0 25px;
+  color: white;
+}
+
+.header-right:hover {
+  transition: all 0.5s;
+  background-color: rgba(255,255,255,0.5);
+}  
