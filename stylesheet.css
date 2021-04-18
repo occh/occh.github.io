@@ -10,8 +10,11 @@
 
 .headr-left {
   width: 124px;
-  padding: 0 25px;
-  color: white;
+  padding: 0 20px;
+}
+
+.header-right {
+  background-color: rgba(255,255,255,0.5);
 }
 
 .header-right:hover {
